@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0w37s~i_aj5si.js"],""]
+3:I[5500,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0w37s~i_aj5si.js"],"Image"]
+4:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+0:{"rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0w37s~i_aj5si.js","async":true}]],["$","div",null,{"className":"page-shell","children":[["$","header",null,{"className":"page-header","children":[["$","$L2",null,{"href":"/","className":"logo-link","children":[["$","$L3",null,{"src":"/logo.png","alt":"Coastal Simple","width":32,"height":32}],["$","span",null,{"className":"logo-name","children":"Coastal Simple Tools"}]]}],["$","span",null,{"style":{"fontSize":13,"color":"var(--muted)","fontWeight":500},"children":"Word Cloud Generator"}]]}],["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"tutCu53PsxdqfYP1LZVpi"}
