@@ -25,6 +25,13 @@ export default function Home() {
               <p style={{ color: 'var(--muted)', fontSize: 13.5 }}>Transform unstructured text into a visual word frequency map.</p>
             </div>
           </Link>
+          <Link href="/percentage-increase" className="tool-card">
+            <div className="card card-p">
+              <div style={{ fontSize: 32, marginBottom: 10 }}>📈</div>
+              <h3 style={{ marginBottom: 6 }}>Percentage Increase Calculator</h3>
+              <p style={{ color: 'var(--muted)', fontSize: 13.5 }}>Calculate the percentage change between any two values instantly.</p>
+            </div>
+          </Link>
         </div>
       </main>
     </div>
