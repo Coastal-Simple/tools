@@ -12,7 +12,7 @@ export default function WordCloudLayout({ children }: { children: React.ReactNod
     <div className="page-shell">
       <header className="page-header">
         <Link href="/" className="logo-link">
-          <Image src="/logo.png" alt="Coastal Simple" width={32} height={32} />
+          <Image src={`${process.env.NEXT_PUBLIC_BASE_PATH}/logo.png`} alt="Coastal Simple" width={32} height={32} />
           <span className="logo-name">Coastal Simple Tools</span>
         </Link>
         <span style={{ fontSize: 13, color: 'var(--muted)', fontWeight: 500 }}>Word Cloud Generator</span>

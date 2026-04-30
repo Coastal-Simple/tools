@@ -7,7 +7,7 @@ export default function WordCloudLanding() {
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 32, maxWidth: 680, width: '100%', textAlign: 'center' }}>
         <div className="card" style={{ padding: 0, overflow: 'hidden', width: '100%', maxWidth: 500, borderRadius: 16 }}>
           <Image
-            src="/wordcloud.png"
+            src={`${process.env.NEXT_PUBLIC_BASE_PATH}/wordcloud.png`}
             alt="Word cloud example"
             width={500}
             height={280}

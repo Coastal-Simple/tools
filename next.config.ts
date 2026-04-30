@@ -6,6 +6,9 @@ const nextConfig: NextConfig = {
   output: "export",
   images: { unoptimized: true },
   basePath: isProd ? "/tools" : "",
+  env: {
+    NEXT_PUBLIC_BASE_PATH: isProd ? "/tools" : "",
+  },
 };
 
 export default nextConfig;
